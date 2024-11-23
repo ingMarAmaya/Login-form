@@ -56,3 +56,10 @@ body{
     transform: translateY(-50%);
     font-size: 20px;
 }
+
+.container .remember{
+    display: flex;
+    justify-content: space-between;
+    font-size: 14.5px;
+    margin: -15px 0 15px;
+}
