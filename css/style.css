@@ -97,3 +97,9 @@ body{
     text-align: center;
     margin-top: 20px;
 }
+
+.register p a{
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+}
