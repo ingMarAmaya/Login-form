@@ -68,3 +68,8 @@ body{
     accent-color: white;
     margin-right: 3px;
 }
+
+.remember a{
+    color: white;
+    text-decoration: none;
+}
