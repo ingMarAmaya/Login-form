@@ -1,4 +1,5 @@
 *{
     margin: 0px;
     padding: 0px;
+    box-sizing: border-box; /*Indica el tamaño del contenido es igual al de la caja: 100%*/
 }
