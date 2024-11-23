@@ -73,3 +73,7 @@ body{
     color: white;
     text-decoration: none;
 }
+
+.remember a:hover{
+    text-decoration: underline;
+}
