@@ -4,3 +4,11 @@
     box-sizing: border-box; /*Indica el tamaño del contenido es igual al de la caja: 100%*/
     font-family: "poppins", sans-serif;
 }
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /*es útil cuando se quiere que el tamaño de algo sea relativo al de la ventana*/
+    background-color:lightgreen;
+}
