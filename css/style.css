@@ -63,3 +63,8 @@ body{
     font-size: 14.5px;
     margin: -15px 0 15px;
 }
+
+.remember label input{
+    accent-color: white;
+    margin-right: 3px;
+}
