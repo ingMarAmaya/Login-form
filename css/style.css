@@ -18,3 +18,8 @@ body{
     background-color:darkmagenta;
     color: white;
 }
+
+.container h1{
+    font-size: 35px;
+    text-align: center;
+}
